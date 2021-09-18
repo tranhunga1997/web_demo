@@ -9,6 +9,6 @@ public class HomeController {
     @RequestMapping("")
     @ResponseBody
     public String Home(){
-        return "Hello World";
+        return "Xin chao the gioi";
     }
 }
